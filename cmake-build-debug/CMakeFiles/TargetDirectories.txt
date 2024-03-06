@@ -1,0 +1,3 @@
+C:/Users/sebas/Documents/USC/Administración de la información/MatriculaAcademica/cmake-build-debug/CMakeFiles/MatriculaAcademica.dir
+C:/Users/sebas/Documents/USC/Administración de la información/MatriculaAcademica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sebas/Documents/USC/Administración de la información/MatriculaAcademica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
